@@ -1,4 +1,3 @@
 RobotWestern
 ============
-Test Test
-buhy
+This is the readme for the RobotWestern game.
